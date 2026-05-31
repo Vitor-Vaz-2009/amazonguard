@@ -1,0 +1,45 @@
+body{
+    background-color: #d9f5d9;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.logo{
+    width: 300px;
+    margin-top: 20px;
+}
+
+.imagem{
+    width: 500px;
+    max-width: 90%;
+    border-radius: 10px;
+}
+
+h1{
+    color: darkgreen;
+}
+
+h2{
+    color: green;
+}
+
+ul{
+    list-style-position: inside;
+    padding: 0;
+}
+
+a{
+    color: darkgreen;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    margin-top: 30px;
+    font-size: 14px;
+    color: #555;
+}
